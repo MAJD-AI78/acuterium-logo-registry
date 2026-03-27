@@ -1,0 +1,41 @@
+logo_id,logo_name,real_filename,file_type,transparent,has_slogan,asset_category,platform_system_app,date_saved,storage_location,folder_path,notes
+001,Marel Full Logo,Marel-logo.png,PNG,No,No,Brand / Platform,Marel Platform,2026-03-27,Google Drive,My Drive (root),Shared file
+002,Marel Logo Transparent,Marel-logo-TRANS.png,PNG,Yes,No,Brand / Platform,Marel Platform,2026-03-27,Google Drive,My Drive (root),Shared transparent version
+003,MAJD Full Logo,majd full logo.png,PNG,No,No,Brand / Platform,MAJD AI,2025-06-17,Google Drive,logos/,Primary MAJD wordmark
+004,Aktrayel Logo,Aktrayel-logo.png,PNG,No,No,Brand / Engine,Aktrayel Engine,2026-02-12,Google Drive,logos/,Shared; also in Baranurion folder
+005,MADA Logo (logos folder),mada_logo.png,PNG,No,No,Brand / System,MADAA System,2026-02-23,Google Drive,logos/,Shared file
+006,Zurd Logo v01,zurd-logo-v01.png,PNG,No,No,Brand / App,Zurd App,2026-02-23,Google Drive,logos/,Shared file
+007,Acuterium Technologies Logo,Acuterium Technologies_logo.png,PNG,No,No,Corporate,Acuterium Technologies,2025-11-03,Google Drive,logos/,Primary corporate logo
+008,Zurd Logo v02,zurd-logo-v02.png,PNG,No,No,Brand / App,Zurd App,2026-02-23,Google Drive,logos/,Shared file v2
+009,Ruzn Logo (logos),ruzn-logo.png,PNG,No,No,Brand / Protocol,Ruzn-Supreme Protocol,2026-01-09,Google Drive,logos/,Shared file
+010,MADA Logo (MADAA System folder),mada_logo.png,PNG,No,No,Brand / System,MADAA System,2025-10-13,Google Drive,MADAA — System/,Dedicated system folder copy
+011,Baranurion Logo Transparent,Baranurion-logo-trans.png,PNG,Yes,No,Brand / Layer,Baranurion Layer,2026-03-10,Google Drive,Baranurion/,Transparent version
+012,MAJD Full Logo Transparent,majd full logo_Transparent.png,PNG,Yes,No,Brand / Platform,MAJD AI,2025-06-17,Google Drive,logos/,Transparent version of MAJD wordmark
+013,Aktrayel Logo (Baranurion),Aktrayel-logo.png,PNG,No,No,Brand / Engine,Aktrayel Engine,2026-02-12,Google Drive,Baranurion/,Duplicate in Baranurion folder
+014,Erebus-ASI Signature Logo and Tagline,Erebus-ASI Signature Logo and Tagline.png,PNG,No,Yes,Brand / Engine,Erebus-CSE / ASI Engine,2025-06-17,Google Drive,logos/,Includes tagline / slogan
+015,PSI-DOMINION Logo,PSI-DOMINION_Logo.png,PNG,No,No,Brand / Protocol,PSI-DOMINION Protocol,2025-10-19,Google Drive,logos/,Shared file
+016,Dairan AI EN Logo (Diaran folder),Dairan-ai-en-logo.png,PNG,No,No,Brand / Platform,Dairan AI Platform,2026-02-12,Google Drive,Diaran/,English version
+017,AcuTect Full Logo,AcuTect_FullLogo.jpg,JPG,No,No,Brand / App,AcuTect App,2025-06-16,Google Drive,Assets/,Full wordmark JPG
+018,Ruzn Logo (public 1),ruzn-logo.png,PNG,No,No,Brand / Protocol,Ruzn-Supreme Protocol,2026-01-07,Google Drive,public/,Public copy 1
+019,Ruzn Logo (public 2),ruzn-logo.png,PNG,No,No,Brand / Protocol,Ruzn-Supreme Protocol,2026-01-07,Google Drive,public/,Public copy 2
+020,Ruzn Logo (Ruzn-Supreme),ruzn-logo.png,PNG,No,No,Brand / Protocol,Ruzn-Supreme Protocol,2026-01-09,Google Drive,Ruzn-Supreme/,Dedicated folder copy
+021,Acuterium Protocols Logos Gen-Z,Acuterium-protocols-logos-gen-z.png,PNG,No,No,Brand / System,Acuterium Protocols,2026-02-12,Google Drive,logos/,Shared; Gen-Z variant
+022,Acuterium Protocols Logos (site),Acuterium-protocols-logos.png,PNG,No,No,Brand / System,Acuterium Protocols,2026-02-12,Google Drive,acuterium-ai-site/,Used on website
+023,Acuterium Protocols Logos (logos),Acuterium-protocols-logos.png,PNG,No,No,Brand / System,Acuterium Protocols,2026-02-12,Google Drive,logos/,Shared logos folder copy
+024,Acuterium Protocols Logos Gen-Z (site),Acuterium-protocols-logos-gen-z.png,PNG,No,No,Brand / System,Acuterium Protocols,2026-02-12,Google Drive,acuterium-ai-site/,Site copy Gen-Z variant
+025,Dairan AI AR Logo (Diaran folder),Dairan-ai-ar-logo.png,PNG,No,No,Brand / Platform,Dairan AI Platform,2026-02-12,Google Drive,Diaran/,Arabic version
+026,StratEdge-AI Transparent Logo,StratEdge-AI-Trans-Logo.png,PNG,Yes,No,Brand / Platform,StratEdge-AI,2026-02-23,Google Drive,logos/,Shared transparent version
+027,StratEdge-AI Logo,StratEdge-AI-logo.png,PNG,No,No,Brand / Platform,StratEdge-AI,2026-02-23,Google Drive,logos/,Shared standard version
+028,Zurd Device with Logo v01,zurd-ldevice-with-logo-v01.png,PNG,No,No,Brand / App,Zurd App,2026-02-23,Google Drive,logos/,Device mockup v01
+029,Zurd Device with Logo v02 No Bulb,zurd-ldevice-with-logo-v02-no-bulb.png,PNG,No,No,Brand / App,Zurd App,2026-02-23,Google Drive,logos/,Device mockup v02 no bulb
+030,NyxQ-Net Logo with Slogan,NyxQ-Net_logo_concepet_with_slogan (1).png,PNG,No,Yes,Brand / Network,NyxQ-Net,2026-02-23,Google Drive,logos/,Shared; includes slogan
+031,Ruzn Both Logos,Ruzn-both-logos.png,PNG,No,No,Brand / Protocol,Ruzn-Supreme Protocol,2026-02-12,Google Drive,logos/,Combined both logo variants
+032,Dairan AI EN Logo (logos),Dairan-ai-en-logo.png,PNG,No,No,Brand / Platform,Dairan AI Platform,2026-02-12,Google Drive,logos/,Shared logos folder copy EN
+033,Dairan AI AR Logo (logos),Dairan-ai-ar-logo.png,PNG,No,No,Brand / Platform,Dairan AI Platform,2026-02-12,Google Drive,logos/,Shared logos folder copy AR
+034,Uranaa Flame Of Intelligence Logo v1,Uranaa_Flame-Of-Intelligence_logo_v1.webp,WEBP,No,No,Brand / Engine,Uranaa Intelligence Engine,2026-02-04,Google Drive,logos/,Shared webp format
+035,Acuterium Technologies Logo (jpeg),AcuteriumTechnologies_logo.jpeg,JPEG,No,No,Corporate,Acuterium Technologies,2026-02-03,Google Drive,logos/,Shared JPEG variant
+036,Acuterium Thinking Engine Logo,Acuterium_Thinking_Engine_Logo.webp,WEBP,No,No,Brand / Engine,Acuterium Thinking Engine,2026-01-01,Google Drive,protocols/,Shared webp
+037,AcutLinks Logo,AcutLinks_Logo.webp,WEBP,No,No,Brand / Protocol,AcutLinks Protocol,2026-01-01,Google Drive,protocols/,Shared webp
+038,Perception Engine Logo,Perception_Engine_logo.webp,WEBP,No,No,Brand / Engine,Perception Engine,2026-01-01,Google Drive,protocols/,Shared webp
+039,PIF Logo,PIF_Logo.webp,WEBP,No,No,Brand / Protocol,PIF Protocol,2026-01-01,Google Drive,protocols/,Shared webp
+040,Q-ENC Logo,Q_ENC_Logo.webp,WEBP,No,No,Brand / Protocol,Q-ENC Encryption Protocol,2026-01-01,Google Drive,protocols/,Shared webp
