@@ -39,3 +39,7 @@ logo_id,logo_name,real_filename,file_type,transparent,has_slogan,asset_category,
 038,Perception Engine Logo,Perception_Engine_logo.webp,WEBP,No,No,Brand / Engine,Perception Engine,2026-01-01,Google Drive,protocols/,Shared webp
 039,PIF Logo,PIF_Logo.webp,WEBP,No,No,Brand / Protocol,PIF Protocol,2026-01-01,Google Drive,protocols/,Shared webp
 040,Q-ENC Logo,Q_ENC_Logo.webp,WEBP,No,No,Brand / Protocol,Q-ENC Encryption Protocol,2026-01-01,Google Drive,protocols/,Shared webp
+041,Agent-Oman Full Logo Dark,agent_oman_logo_full_dark.jpg,JPG,No,Yes,Brand / Agent,Agent-Oman,2026-04-26,GitHub,agent-oman/brand/,Full lockup with Arabic وكيل عُمان + English Agent-Oman + tagline POWERED BY ACUTERIUM OCF on dark background — FINAL LOCKED
+042,Agent-Oman Full Logo Transparent,agent_oman_logo_full_dark-transparent.jpg,JPG,Yes,Yes,Brand / Agent,Agent-Oman,2026-04-26,GitHub,agent-oman/brand/,Full lockup transparent variant — FINAL LOCKED
+043,Agent-Oman Icon,agent_oman_logo_icon.jpg,JPG,No,No,Brand / Agent,Agent-Oman,2026-04-26,GitHub,agent-oman/brand/,8-pointed star icon (emerald + Oman-red core + gold circuit traces) on dark background — FINAL LOCKED
+044,Agent-Oman Icon Transparent,agent_oman_logo_icon-transparent.jpg,JPG,Yes,No,Brand / Agent,Agent-Oman,2026-04-26,GitHub,agent-oman/brand/,8-pointed star icon transparent variant for app icon and overlays — FINAL LOCKED
